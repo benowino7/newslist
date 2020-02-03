@@ -1,5 +1,5 @@
 # News Highlights
-This is the fourth Independent project for Moringa Core, feb 1 2019
+Thisis an Independent project for Moringa Core, created on feb 1 2019
 
 ## Description
 
@@ -22,7 +22,7 @@ News Highlights is a web application that will help users list and preview news 
 | Search for an article by keyword | Type any keyword in `search bar` e.g. `Jack Ma`| Redirects to search page with all the search results for Jack Ma|
 
 ## View Live Site here
-View the complete site [here](https://newshighlight-sophia.herokuapp.com/)
+View the complete site [here]()
 
 
 ## Technologies Used
@@ -39,13 +39,13 @@ View the complete site [here](https://newshighlight-sophia.herokuapp.com/)
     4. Edit the start.sh file with your api key from the news.org website   
     6. Run chmod a+x start.py
     7. Run ./start.py
-    8. Access the application through `localhost:5000`
+    8. Access the application through `localhost:4200`
 
 ## Known bugs
 No known bugs so far. If found drop me an email.
 
 ## Contributors
-    - Sophia Murage
+    - Benson owino
 
 ### Contact Information
-njerimurage92@gmail.com | snmurage1@gmail.com
+bensonowino7@gmail.com | contechkenya7@gmail.com
