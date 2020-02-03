@@ -1,9 +1,10 @@
 # News Highlights
-Thisis an Independent project for Moringa Core, created on feb 1 2019
+This is an Independent project for Moringa Core, created on feb 1 2019
 
 ## Description
 
-News Highlights is a web application that will help users list and preview news articles from various sources. It is a web application that is meant to catch up hard workers on current affairs happening all over the world.
+  A News highliting programe which displays different headlines
+ and is also a web application that will help users list and preview news articles from various sources. one can easily to catch up hard workers on current affairs happening all over the world.
 
 ## Features
 - The home page allows users to see various news sources sorted based on categories and select their preference.
@@ -17,9 +18,9 @@ News Highlights is a web application that will help users list and preview news 
 | ------------------- | ----------------------------- | ----------------------------- |
 | View All News Sources | Default Home Page | Displays all news sources |
 | View Categories of news sources<br>(Technology, entertainment, sports etc)| Click on `Categories` drop down then on specific category e.g. `Technology` | Scrolls down to Technology news sources|
-|View Top Headlines | Click on `Top Headlines` button | Redirects to the Top Headlines article page  |
-| View All Articles | Click on  `All Articles`| Redirects to the All Articles page |
-| Search for an article by keyword | Type any keyword in `search bar` e.g. `Jack Ma`| Redirects to search page with all the search results for Jack Ma|
+|View Top Headlines | Click on `Headlines` button | Redirects to the Top Headlines article page  |
+| View All Articles | Click on  `Articles`| Redirects to the All Articles page |
+| Search for an article by keyword | Type any keyword in `search bar` e.g. `BBC`| Redirects to search page with all the search results for Jack Ma|
 
 ## View Live Site here
 View the complete site [here]()
