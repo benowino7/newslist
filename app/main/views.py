@@ -85,3 +85,4 @@ def search(article_name):
     title = f'search results for {article_name}'
 
     return render_template('search.html', articles = searched_articles)
+
