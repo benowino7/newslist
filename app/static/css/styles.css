@@ -2,6 +2,9 @@
 .inline{
     display: inline;
 }
+*{
+    color: black;
+}
 .opaque-navbar {
     background-color: rgba(0,0,0,0.01);
   /* Transparent = rgba(0,0,0,0) / Translucent = (0,0,0,0.5)  */
@@ -135,6 +138,7 @@ h5.source_title{
 .source_body{
         font-size: 14px;
         color: #5d5555;
+        background-color: aquamarine;
 }
 a:hover{
     text-decoration:none;
@@ -160,6 +164,7 @@ div.card.article{
     margin: 0px;
     margin-bottom: 20px;
     width: 100%;
+    background-color: aquamarine;
 }
 .metadata{
     margin-bottom: 0px;
