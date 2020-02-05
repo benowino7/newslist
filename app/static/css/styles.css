@@ -6,8 +6,10 @@
 .opaque-navbar {
     background-color: rgba(41, 34, 34, 0.01);
     border-bottom: 0px;
+    font-size: 19px;
+    list-style: none;
     height: 60px;
-    padding: 6%;
+    padding: 14px;
     transition: background-color .5s ease 0s;
     box-shadow: 0 4px 8px 0 rgba(104, 102, 102, 0.05), 0 6px 20px 0 rgba(119, 117, 117, 0.03);
     transition: background-color .5s ease 0s;
@@ -138,6 +140,7 @@ h5.source_title{
     margin-bottom: 10px
 }
 .source_body{
+        margin-top: 3%;
         font-size: 14px;
         color: #5d5555;
         background-color: rgb(20, 122, 88);
